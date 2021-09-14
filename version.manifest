@@ -1,9 +1,9 @@
 {
-    "packageUrl": "http://g7vip.fun/m/",
+    "packageUrl": "https://g7vip.net/m/",
     "searchPaths": [],
     "assets": {},
-    "remoteVersionUrl": "http://g7vip.fun/m/version.manifest",
+    "remoteVersionUrl": "https://g7vip.net/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.16",
-    "remoteManifestUrl": "http://g7vip.fun/m/project.manifest"
+    "remoteManifestUrl": "https://g7vip.net/m/project.manifest"
 }
